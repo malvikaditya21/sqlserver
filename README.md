@@ -1,1 +1,3 @@
 # sqlserver
+
+select @@servername
